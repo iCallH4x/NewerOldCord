@@ -463,49 +463,6 @@ body {
 
 
 
-/** Fonts */
-@font-face {
-    font-family: "gg sans";
-    font-weight: 300;
-    src: url(https://github.com/GreenMonster362905/gg-sans-font/blob/main/ggsans.woff2) format("woff2");
-}
-
-@font-face {
-    font-family: "gg sans";
-    src: url(https://github.com/GreenMonster362905/gg-sans-font/blob/main/ggsans.woff2) format("woff2");
-}
-
-@font-face {
-    font-family: "gg sans";
-    font-style: italic;
-    src: url(https://github.com/GreenMonster362905/gg-sans-font/blob/main/ggsansitalic.woff2) format("woff2");
-}
-
-@font-face {
-    font-family: "gg sans";
-    font-weight: 500;
-    src: url(https://github.com/GreenMonster362905/gg-sans-font/blob/main/ggsansmedium.woff2) format("woff2");
-}
-
-@font-face {
-    font-family: "gg sans";
-    font-weight: 600;
-    src: url(https://github.com/GreenMonster362905/gg-sans-font/blob/main/ggsanssemibold.woff2) format("woff2");
-}
-
-@font-face {
-    font-family: "gg sans";
-    font-weight: 700;
-    src: url(https://github.com/GreenMonster362905/gg-sans-font/blob/main/ggsansbold.woff2) format("woff2");
-}
-
-@font-face {
-    font-family: "gg sans";
-    font-weight: 700;
-    font-style: italic;
-    src: url(https://github.com/GreenMonster362905/gg-sans-font/blob/main/ggsansbolditalic.woff2) format("woff2");
-}
-
 
 
 
